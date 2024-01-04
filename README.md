@@ -7,6 +7,8 @@ Barebone ATtiny*XX*17 breakout/development board for the ATtiny417, ATtiny817, A
 - Breakout all pins to breadboard-friendly headers
 - Provide a standard six-pin AVR-UPDI header
 
+![Completed development board](./attiny-complete.jpg)
+
 ## Possible Improvements
 
 - [ ] Change USB connector to USB-C
